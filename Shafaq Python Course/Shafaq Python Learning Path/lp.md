@@ -5,3 +5,5 @@ isPremium: true
 isAvailable: true
 scenarioCount: 0
 isNew: true
+categories: 
+  - python
