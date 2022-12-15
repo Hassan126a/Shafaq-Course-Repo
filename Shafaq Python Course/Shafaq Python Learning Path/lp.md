@@ -1,7 +1,7 @@
 title: Shafaq Python Learning Path
 description: Lets learn how to build a web application with Flask.
 scenarios: []
-isPremium: false
+isPremium: true
 isAvailable: true
 scenarioCount: 0
 isNew: true
