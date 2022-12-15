@@ -1,5 +1,5 @@
 courseName: Shafaq Python Course
-description: Pyhton New Course For Testing Purpose
+description: Python New Course For Testing Purpose
 isAvailable: true
 isPremium: false
 complexity: high
