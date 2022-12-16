@@ -1,4 +1,4 @@
-title: Shafaq Python Learning Path 2
+title: Shafaq Python Learning Path 3
 description: Lets learn how to build a web application with Flask.
 scenarios: 
   - Shafaq Python Scenario 1
