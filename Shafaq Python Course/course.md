@@ -2,7 +2,7 @@ courseName: Shafaq Python Course
 description: New Python Course For Test
 isAvailable: true
 isPremium: true
-complexity: high
+complexity: beginner
 categories: 
   - python
 learningPaths: 
