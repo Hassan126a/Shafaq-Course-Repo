@@ -6,7 +6,7 @@ complexity: high
 categories: 
   - python
 learningPaths: 
-  - Shafaq Python Learning Path 4
+  - Shafaq Python Learning Path 5
 price: 
   value: 22
   currency: USD
