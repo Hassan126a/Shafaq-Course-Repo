@@ -1,4 +1,4 @@
-title: Shafaq Pyhton Scenario 1
+title: Hassan Pyhton Scenario 1
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:
